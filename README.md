@@ -1,45 +1,45 @@
-<h1 align="center">مرحبًا، أنا محمد بشامخة 👋</h1>
+<h1 align="center">Hi, I'm Mohammed Bashamkha 👋</h1>
 
 <p align="center">
-مطور طموح مهتم بمجال <strong>Back-End</strong> وبناء تطبيقات ويب قوية باستخدام أحدث التقنيات.
+A passionate developer focused on <strong>Back-End</strong> development and building powerful web applications using modern technologies.
 </p>
 
 ---
 
-## 👨‍💻 عني:
+## 👨‍💻 About Me:
 
-- 👀 مهتم بـ: تطوير الخلفية (Back-End)
-- 🌱 أتعلم حاليًا: HTML، CSS، JavaScript، Python
-- 💞️ أبحث عن فرص للمساهمة في مشاريع تطوير الويب
-- 📫 تواصل معي عبر: [mb877402@gmail.com](mailto:mb877402@gmail.com)
-- 😄 اللقب: مطور المستقبل
-- ⚡ معلومة عشوائية: أعشق التحديات البرمجية والمنطقية
+- 👀 Interested in: Back-End Development
+- 🌱 Currently learning: HTML, CSS, JavaScript, Python
+- 💞️ Looking to collaborate on: Web development projects
+- 📫 Reach me at: [mb877402@gmail.com](mailto:mb877402@gmail.com)
+- 😄 Nickname: Future Developer
+- ⚡ Fun fact: I love solving logical and coding challenges
 
 ---
 
-## 🛠️ المهارات الحالية:
+## 🛠️ Current Skills:
 
-- PHP / Laravel (قيد التعلم)
-- Python (أساسيات)
+- PHP / Laravel (in progress)
+- Python (basic level)
 - HTML / CSS
-- JavaScript (أساسيات)
+- JavaScript (basic level)
 - Git & GitHub
 
 ---
 
-## 📚 أهدافي القادمة:
+## 📚 My Upcoming Goals:
 
-- احتراف Laravel
-- فهم أعمق لـ RESTful APIs
-- بناء مشاريع حقيقية باستخدام قواعد بيانات MySQL
-- تطوير واجهات باستخدام Bootstrap أو React لاحقًا
+- Master Laravel
+- Gain deep understanding of RESTful APIs
+- Build real-world projects with MySQL databases
+- Learn and apply Bootstrap or React for front-end
 
 ---
 
-## 🌐 تابعني:
+## 🌐 Follow Me:
 
 - GitHub: [@mohammed-bashamkha](https://github.com/mohammed-bashamkha)
 
 ---
 
-<p align="center">شكراً لزيارتك! لا تنسى متابعة حسابي لرؤية مشاريعي القادمة 🔥</p>
+<p align="center">Thanks for visiting! Don't forget to follow me to see my upcoming projects 🔥</p>
