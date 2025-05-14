@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @mohammed-bashamkha
-- 👀 I’m interested in Backend 
-- 🌱 I’m currently learning html & css & JavaScript & python
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me Email: mb877402@gmail.com
-- 😄 Pronouns: 👨‍💻
-- ⚡ Fun fact: 🗿🗿
+<h1 align="center">مرحبًا، أنا محمد بشامخة 👋</h1>
 
-<!---
-mohammed-bashamkha/mohammed-bashamkha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+مطور طموح مهتم بمجال <strong>Back-End</strong> وبناء تطبيقات ويب قوية باستخدام أحدث التقنيات.
+</p>
+
+---
+
+## 👨‍💻 عني:
+
+- 👀 مهتم بـ: تطوير الخلفية (Back-End)
+- 🌱 أتعلم حاليًا: HTML، CSS، JavaScript، Python
+- 💞️ أبحث عن فرص للمساهمة في مشاريع تطوير الويب
+- 📫 تواصل معي عبر: [mb877402@gmail.com](mailto:mb877402@gmail.com)
+- 😄 اللقب: مطور المستقبل
+- ⚡ معلومة عشوائية: أعشق التحديات البرمجية والمنطقية
+
+---
+
+## 🛠️ المهارات الحالية:
+
+- PHP / Laravel (قيد التعلم)
+- Python (أساسيات)
+- HTML / CSS
+- JavaScript (أساسيات)
+- Git & GitHub
+
+---
+
+## 📚 أهدافي القادمة:
+
+- احتراف Laravel
+- فهم أعمق لـ RESTful APIs
+- بناء مشاريع حقيقية باستخدام قواعد بيانات MySQL
+- تطوير واجهات باستخدام Bootstrap أو React لاحقًا
+
+---
+
+## 🌐 تابعني:
+
+- GitHub: [@mohammed-bashamkha](https://github.com/mohammed-bashamkha)
+
+---
+
+<p align="center">شكراً لزيارتك! لا تنسى متابعة حسابي لرؤية مشاريعي القادمة 🔥</p>
